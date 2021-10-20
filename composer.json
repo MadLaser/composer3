@@ -1,0 +1,13 @@
+{
+    "name": "wilder/composer3",
+    "authors": [
+        {
+            "name": "loick le sausse",
+            "email": "rasmo@gmail.com"
+        }
+    ],
+    "require": {
+        "swiftmailer/swiftmailer": "^6.3",
+        "gipetto/cowsay": "^1.1"
+    }
+}
